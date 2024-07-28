@@ -10,7 +10,8 @@ Save your data in a CSV file named orders.csv.
 Create the Python Script:
 
 Open a text editor or IDE.
-Create a new Python file (e.g., analyze_orders.py).
+Create a new Python file (e.g., orders.py).
+we can do it in google collab or jupyter notebook in anaconda.
 Copy the provided code into this file.
 Understand the Code:
 
